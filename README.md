@@ -9,14 +9,17 @@
 
 <h3>Full Stack Developer</h3>
 <hr>
-<p>👍 I am a full stack developer with a passion for creating clean, efficient, and user-friendly web pplications. My expertise lies in building scalable and robust applications using a variety of programming languages and frameworks, including React, Vue.js, Next, Laravel, and Django.</p>
+<p>👍 I am a full stack developer with a passion for creating clean, efficient, and user-friendly web pplications. My expertise lies in building scalable and robust applications using a variety of programming languages and frameworks, including Django, React, Next.js, Vue.js, Laravel and ASP.NET. And I have rich experience in mobile app development based on React Native and Flutter.</p>
 <p>✨ Over the years, I have worked on various projects, ranging from simple one-page websites to complex web applications. I always approach each project with attention to detail and a focus on uality, whether I am working on the front-end or the back-end.</p>
 <p>👌 My front-end development experience includes creating responsive and accessible web layouts and UI components, implementing state management solutions using Redux and Vue.js, and optimizing performance using techniques such as code splitting and lazy loading.</p>
-<p>✨ On the back-end, I am well-versed in developing APIs and microservices using Laravel and Flask. On the back-end, I am well-versed in developing APIs and microservices using Laravel and lask. I am also skilled in atabase design and optimization, using tools like MySQL, PostgreSQL, and MongoDB to build optimized solutions for managing data.</p>
+<p>✨ On the back-end, I am well-versed in developing APIs and microservices using Django and Laravel. On the back-end, I am well-versed in developing APIs and microservices using Django, Laravel and ASP.NET. I am also skilled in atabase design and optimization, using tools like MySQL, MongoDB, and postgresql to build optimized solutions for managing data.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Aeron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aeron" height="30" width="40" /></a>
+<a href="https://discord.com/users/1144378857277898813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="viktorsh818" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/vz4Ko1mBhhbJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="viktorsh818" height="30" width="40" /></a>
+<a href="https://t.me/joyfulmagician" target="blank"><img align="center" src="	https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="viktorsh818" height="30" width="40" /></a>
+<a href="viktorsh818@gmail.com" target="blank"><img align="center" src="	https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="viktorsh818" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
